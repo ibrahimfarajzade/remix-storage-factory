@@ -1,4 +1,4 @@
-# Storage Factory
+# Remix Storage Factory
 
 This project contains a set of Solidity contracts demonstrating basic storage functionality. The contracts included are:
 
